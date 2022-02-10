@@ -35,7 +35,7 @@
 - [ ] I have added this issue to the Roadmap project
 - [ ] I have given the issue appropriate labels
 
-## Initial Checklist:
+## Commencement Checklist:
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 
