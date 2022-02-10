@@ -34,7 +34,6 @@
 - [ ] I have filled in all the required information above
 - [ ] I have added this issue to the Roadmap project
 - [ ] I have given the issue appropriate labels
-- [ ] I am starting work 
 
 ## Initial Checklist:
 
