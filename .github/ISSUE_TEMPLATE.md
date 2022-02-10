@@ -37,5 +37,5 @@
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
 - [ ] I have filled in all the required information above
-- [ ] I have added this issue to the 'IGI Roadmap' project
+- [ ] I have added this issue to the Roadmap project
 - [ ] I have given the issue appropriate labels
