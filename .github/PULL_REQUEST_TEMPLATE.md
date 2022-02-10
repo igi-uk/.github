@@ -22,7 +22,7 @@
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 <!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
 
-- [ ] I have added the pull request to the 'IGI Roadmap' project
+- [ ] I have added this pull request to the Roadmap project
 - [ ] I have correctly linked the issue this pull request fixes
 - [ ] I have added tests to cover my changes (if appropriate)
 - [ ] All new and existing tests passed
