@@ -29,3 +29,12 @@
 
 <!--- How has this issue affected you? What are you trying to accomplish? -->
 <!--- Providing context helps us come up with a solution that is most useful in the real world -->
+
+## Checklist:
+
+<!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
+<!--- If you're unsure about any of these, don't hesitate to ask. We're here to help! -->
+
+- [ ] I have filled in all the required information above
+- [ ] I have added this issue to the 'IGI Roadmap' project
+- [ ] I have given the issue appropriate labels
